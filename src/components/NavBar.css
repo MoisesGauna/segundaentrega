@@ -1,0 +1,28 @@
+.barra-gral {
+    display: flex;
+    background-color: #00071f;
+
+}
+
+.barra {
+    padding: 5px;
+    color: aliceblue;
+}
+.barra-brand{ 
+font-size: 2rem !important;
+color: aliceblue !important;
+
+}
+
+.nav-titles{
+    margin: 8px;
+    display: flex;
+    align-items: center;
+    color: aliceblue !important;
+
+}
+
+.cart-wid{
+    margin-left: 600px;
+}
+
